@@ -49,28 +49,22 @@ A command-line tool that uses a language model (LLM) to classify text by a prede
     ```bash
     pip install .
     
-
 ## Usage
 
 After installation, use the classifier command to classify any text directly from the terminal:
 
-    ```bash
     classifier "Your text here"
-    ```
 
 ### Example
 
 Classify a sports-related statement:
 
-    ```bash
     classifier "Magnus Carlsen is the greatest chess player in the history."
-    ```
+
 
 Expected Output:
 
-    ```json
     { "topic": "sports" }
-    ```
 
 ## Project Structure
 
