@@ -30,7 +30,7 @@ A command-line tool that uses a language model (LLM) to classify text by a prede
     source env/bin/activate  # On Windows use `env\Scripts\activate`
     ```
 
-3. **Install dependencies**:
+3. **Install dependencies** (optional for development purposes):
 
     ```bash
     pip install -r requirements.txt
