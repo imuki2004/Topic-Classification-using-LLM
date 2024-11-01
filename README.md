@@ -20,20 +20,20 @@ A command-line tool that uses a language model (LLM) to classify text by a prede
     ```bash
     git clone https://github.com/imuki2004/DocPro-Demo.git
     cd docpro-demo
-    ```
+    
 
 2. **Create a virtual environment** (optional but recommended):
 
     ```bash
     python -m venv env
     source env/bin/activate  # On Windows use `env\Scripts\activate`
-    ```
+    
 
 3. **Install dependencies**:
 
     ```bash
     pip install -r requirements.txt
-    ```
+    
 
 4. **Set up environment variables**:
 
@@ -42,13 +42,13 @@ A command-line tool that uses a language model (LLM) to classify text by a prede
 
     ```plaintext
     API_KEY=your_api_key_here
-    ```
+    
 
 5. **Install the package**:
 
     ```bash
     pip install .
-    ```
+    
 
 ## Usage
 
