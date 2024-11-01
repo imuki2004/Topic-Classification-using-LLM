@@ -9,6 +9,7 @@ logs/
 npm-debug.log*
 
 # Environment variables
+venv/
 .env
 
 # OS generated files
