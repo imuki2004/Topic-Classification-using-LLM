@@ -19,7 +19,7 @@ A command-line tool that uses a language model (LLM) to classify text by a prede
 
     ```bash
     git clone https://github.com/imuki2004/Topic-Classification-using-LLM.git
-    cd docpro-demo
+    cd topic-classification-using-llm
     ```
     
 
