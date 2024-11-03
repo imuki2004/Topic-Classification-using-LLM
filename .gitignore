@@ -18,3 +18,6 @@ venv/
 # IDE specific files
 .vscode/
 .idea/
+
+# Python cache files
+__pycache__/
