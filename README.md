@@ -1,6 +1,9 @@
 # Simple Topic Classification System on Python
 
-A command-line tool that uses a language model (LLM) to classify text by a predefined set of **topics**. Built with `langchain-together`, `langchain-core` and `pydantic`, this tool allows for quick and easy topic classification from the command line.
+A command-line tool that uses a language model (LLM) to classify text by a predefined set of **topics**. Built with `langchain-together`, `langchain-core` and `pydantic`, this tool allows for quick and easy topic classification from the command line. 
+
+For a detailed explanation of the approach, algorithms, potential improvements, and evaluation strategies, please see the [Project Write-Up](writeup.md).
+
 
 ## Features
 
@@ -84,6 +87,7 @@ python main.py "My name is Imash."
 - `.envexample.txt`: Shows an example of how to store the API key.
 - `requirements.txt`: Contains a list of packages needed to work on a project.
 - `README.md`: Provides setup and usage instructions.
+- `writeup.md`: Provides detailed information on the project (approach, algorithms, model explanation etc.).
 
 ## License
 
