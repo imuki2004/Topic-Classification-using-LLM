@@ -7,7 +7,8 @@ def main():
     args = parser.parse_args()
 
     try:
-        print(result = classify_text(args.input_text))
+        result = classify_text(args.input_text)
+        print(result)
     except Exception as e:
         print(f"An error occurred during classification: {e}")
 
